@@ -15,7 +15,7 @@ public class UserInputDemo {
 		float num1=s.nextFloat();
 	    System.out.println(" The value of floatnum is:"+num1);
 	    
-	    System.out.println("Enter The value of char);
+	    
 	}
 
 }
